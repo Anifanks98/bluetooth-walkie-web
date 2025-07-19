@@ -1,0 +1,22 @@
+{
+  "name": "bluetooth-walkie-web",
+  "version": "1.0.0",
+  "description": "Webapp for walkietalkie\r hi everybody",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anifanks98/bluetooth-walkie-web.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Anifanks98/bluetooth-walkie-web/issues"
+  },
+  "homepage": "https://github.com/Anifanks98/bluetooth-walkie-web#readme",
+  "dependencies": {}
+}
